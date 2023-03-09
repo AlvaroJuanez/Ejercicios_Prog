@@ -7,6 +7,10 @@ El ascensor en este programa consta de 3 plantas:
 
 la interacción sera la misma de un ascensor pero si el usuario pide subir a un piso inexistente
 tanto en la subida o bajada el programa devolvera un mensaje de  Error!.
+
+__author__ = "Alvaro Juanez Mamani"
+__version__ = "1.0" 9/04/2023
+__status__ = "Aprendiendo python"
 '''
 
 #Obten los datos necesarios para el programa
